@@ -1,1 +1,1 @@
-# FlappyBird_RL_v2.0
+# FlappyBird_RL_v2
